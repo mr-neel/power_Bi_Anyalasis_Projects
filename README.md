@@ -45,9 +45,10 @@ The following points were the objective of the project .
 - Building and hosting a project on Git hub
 
 
-<img target="_blank" src="https://github.com/mr-neel/power_Bi_Anyalasis_Projects/blob/master/Resource/powerbi.png" width=170>
+![second](https://user-images.githubusercontent.com/71751175/122770760-659a5180-d2c3-11eb-8a03-bf260e4850d4.png)
 
-<img target="_blank" src="https://github.com/mr-neel/power_Bi_Anyalasis_Projects/blob/master/Resource/second.png" width=170>
+
+![powerbi](https://user-images.githubusercontent.com/71751175/122770790-6c28c900-d2c3-11eb-9edd-00f222d43bfe.png)
 
 
 ### Bug / Feature Request
