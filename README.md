@@ -60,7 +60,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ### Installation 
 - Clone this repository and unzip it.
 - Install the required packages using  -r requirements.txt
-- Execute the command: python app.py
 
 
 
